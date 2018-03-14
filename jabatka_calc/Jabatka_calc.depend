@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1520876597 source:c:\users\media\documents\programozás\jabatka_calc\jabatka_calc\main.cpp
+	"header.h"
+
+1520800862 c:\users\media\documents\programozás\jabatka_calc\jabatka_calc\header.h
+	<iostream>
+	<fstream>
+
+1521052329 source:c:\users\media\documents\nest\jabatka\kalkulátor\backend\jabatka_calc\main.cpp
+	"header.h"
+
+1521052171 c:\users\media\documents\nest\jabatka\kalkulátor\backend\jabatka_calc\header.h
+	<iostream>
+	<fstream>
+	"math.h"
+	<sstream>
+
