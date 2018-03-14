@@ -8,3 +8,4 @@ FONTOS: Futtatáskor a Jabatka_calc.exe és adatbazis.jab egy mappában legyen!
 
 célok: adatbázis átírása SQL-be, szorzót változtató tevékenységek bevezetése
 
+Készítette: Juhász Dániel
